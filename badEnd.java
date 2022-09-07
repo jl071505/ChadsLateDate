@@ -90,7 +90,7 @@ public class badEnd extends World
     }
     private void happyEnd()
     {
-        if(HE==10)
+        if(HE==15)
         {
             Greenfoot.setWorld(new goodEnd());
         }
